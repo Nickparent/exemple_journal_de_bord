@@ -1,12 +1,15 @@
 # Cours 1
-## Créer mon journal de bord
-[Ce tutoriel](https://guides.github.com/activities/hello-world/) vous aidera à bien comprendre les bases de GitHub, n'hésitez pas à le consulter!
-Vous ne vous rappelez plus comment créer le journal ou le modifier? [Ce tutoriel](https://youtu.be/lX3bpuLK_Sg) vous aide! 
 
-## Pourquoi j'ai choisi l'intégration multimédia
-Expliquer en 5 à 10 lignes ce qui vous intéresse en TIM. Parlez de ce qui vous a fait choisir ce programme. Quel cours vous motive en particulier? Est-ce que vous avez déjà en tête un métier que vous aimeriez faire grâce à la formation? Insérez dans votre texte un mot en gras, un emoji et une liste à point. 
 
-[Ce tutoriel](https://guides.github.com/features/mastering-markdown/) vous aidera à avoir la bonne syntaxe lorsque vous écrirez dans votre journal. Vous pouvez aussi vous référez à [cette *cheatsheet*](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md). 
+
+
+* J'ai choisi le programme de TIM car moi jaime beaucoup la technologie, prendre des photos et faire un peu de design. Au depart, je n'etais pas supposé aller dans ce programme car j'etais supposé être à **L'IPIQ** pour devenir pompier et ensuite venir a montmorwency pour finir la technique en securité incendie.  J'ai eu une fracture de la cheville en février passé, ce qui ma empêché daller faire mes preuves.
+*  J'ai hate de commencer TIM car je pense que même si je ne fais pas la technique au complet, ça ne sera jamais perdu. Jaurai une base si j'en aurais besoin a laccasion 😝. Les cours qui me motive dans le programme TIM sont surtout l'atelier de création dimade matricielle, le domaine du multimédia, et l'ulistration numérique car se sont des cours où il y a beaucoup de création qui minteresse enormement et je suis sur que je vais avoir beaucoup de plaisir. 
+*  Si je décide de continuer mon parcour en TIM,la suite serait d'aller a luniversité pour aller en programmation jeux videos. Je sens que je pourrais avoir beaucoup de plaisir à créer des jeux videos et faire du codage et autres. 
+
+
+
+
 
 
 
